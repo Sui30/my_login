@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LoginAppL</string>
+    <string name="todo">TODO</string>
+    <string name="todos">TODO</string>
+    <string name="todoss">TODO</string>
+    <string name="todas">TODO</string>
+    <string name="todass">TODO</string>
+    <string name="admin">Admin</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="idea">Idea</string>
+    <string name="food">Food</string>
+    <string name="me">Me</string>
+    <string name="fitn">Fitn</string>
+    <string name="list">List</string>
+    <string name="read">Read</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+</resources>
